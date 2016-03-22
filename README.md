@@ -1,0 +1,2 @@
+# kodimacosx
+kodi mac ver
